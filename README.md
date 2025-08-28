@@ -1,3 +1,39 @@
+<h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
+<h3 align="center">
+I’m Muhammad Asif, a <b>Senior Frontend Developer</b> from Lahore, Pakistan 🇵🇰.  
+I specialize in building scalable, user-friendly, and high-performance web applications using modern frontend technologies.  
+
+🚀 Experienced in Vue.js, React, Next.js, Nuxt.js, Quasar, Tailwind CSS, Vuetify, and Bootstrap  
+🛠️ Skilled at translating UI/UX designs into responsive, pixel-perfect, and maintainable code  
+📊 Built eCommerce platforms, dashboards, NFC-based digital solutions, and enterprise-grade websites  
+🤝 Passionate about clean code, performance optimization, and collaboration across teams  
+🌱 Currently enhancing my expertise in advanced frontend architectures and performance tuning  
+✨ Beyond coding, I value adaptability, problem-solving, and effective communication.
+</h3>
+
+---
+
+### 🔭 I’m currently working on
+- Building and optimizing an **eCommerce platform** (similar to Shopify) with **Vue.js, Quasar, and Tailwind CSS**  
+- Developing a **real-time dashboard** for product, order, and customer management  
+- Creating **NFC-based smart contact sharing solutions** for mobile devices  
+- Enhancing frontend **performance and scalability** across large-scale applications — [Vlinq](https://vlinq.co/)  
+
+---
+
+📫 **How to reach me:** **asif.reachout@gmail.com**
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/asif-reachout" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-reachout" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Languages and Tools:
 <p align="left">
 
