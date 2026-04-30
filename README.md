@@ -1,118 +1,69 @@
-<h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
-<h3 align="center">
-I’m Muhammad Asif, a <b>Senior Frontend Developer</b> from Lahore, Pakistan 🇵🇰.  
-I specialize in building scalable, user-friendly, and high-performance web applications using modern frontend technologies.  
+<h1 align="center">Hi, I'm Muhammad Asif 👋</h1>
 
-🚀 Experienced in Vue.js, React, Next.js, Nuxt.js, Quasar, Tailwind CSS, Vuetify, and Bootstrap  
-🛠️ Skilled at translating UI/UX designs into responsive, pixel-perfect, and maintainable code  
-📊 Built eCommerce platforms, dashboards, NFC-based digital solutions, and enterprise-grade websites  
-🤝 Passionate about clean code, performance optimization, and collaboration across teams  
-🌱 Currently enhancing my expertise in advanced frontend architectures and performance tuning  
-✨ Beyond coding, I value adaptability, problem-solving, and effective communication.
-</h3>
-
----
-
-### 🔭 I’m currently working on
-- Building and optimizing an **eCommerce platform** (similar to Shopify) with **Vue.js, Quasar, and Tailwind CSS**  
-- Developing a **real-time dashboard** for product, order, and customer management  
-- Creating **NFC-based smart contact sharing solutions** for mobile devices  
-- Enhancing frontend **performance and scalability** across large-scale applications — [Vlinq](https://vlinq.co/)  
-
----
-
-📫 **How to reach me:** **asif.reachout@gmail.com**
-
----
-
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/asif-reachout" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-reachout" height="30" width="40" />
-  </a>
+<p align="center">
+Frontend Engineer • Vue.js • Quasar • Tailwind • Scalable Web Apps
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
+### 👨‍💻 About Me
 
-  <!-- Frameworks & Libraries -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/>
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoO1kQEm6tKiQbd-moXfnmzFakSSyYPpdIw&s" alt="laravel" width="40" height="40"/>
-  </a>
+I'm a Frontend Engineer focused on building scalable, high-performance web applications with clean architecture and strong UX.
 
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+- 4+ years of experience in modern frontend development  
+- Specialized in Vue.js, Quasar, Tailwind CSS, and React  
+- Built SaaS dashboards, eCommerce platforms, and enterprise apps  
+- Currently based in Malaysia 🇲🇾 (Master’s in IT - Research)
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
+I care about performance, maintainability, and building products that actually feel good to use.
 
-  <!-- Tools -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://openresty.org/" target="_blank" rel="noreferrer">
-    <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+### 🚀 What I’m Working On
+
+- Building scalable frontend architectures with Vue + Quasar  
+- Developing eCommerce and SaaS dashboard systems  
+- Improving performance and UX in large-scale applications  
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- Vue.js, Nuxt.js, React.js
+- Quasar Framework
+- Tailwind CSS, Bootstrap
+
+**Languages**
+- JavaScript (ES6+), TypeScript
+
+**Tools & Others**
+- Git, GitHub
+- REST APIs
+- Figma (for dev handoff)
+
+---
+
+### 📌 Featured Projects
+
+- 🔹 **Digital Agency Landing Page**  
+- 🔹 **Email Templates Collection**  
+- 🔹 **OWL Slider Implementation**  
+
+(You can replace these with actual links later)
+
+---
+
+### 📫 Contact
+
+- Email: **asif.reachout@gmail.com**  
+- LinkedIn: **https://linkedin.com/in/asif-reachout**  
+- Portfolio: **https://asifcode.netlify.app/**  
+
+---
+
+### ⚡ Quick Note
+
+I’m open to frontend roles, freelance work, and collaboration on scalable web applications.
+
+---
