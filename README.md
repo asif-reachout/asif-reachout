@@ -73,6 +73,9 @@ I specialize in Vue.js ecosystems and focus on performance, clean architecture, 
 **Styling**
 - Tailwind CSS, SCSS, Bootstrap  
 
+**CMS / Platforms**
+- WordPress, Shopify  
+
 **State & Tools**
 - Pinia, Vuex  
 - Git, GitHub, REST APIs  
