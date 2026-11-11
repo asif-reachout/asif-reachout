@@ -1,101 +1,74 @@
-<h1 align="center">Muhammad Asif 👋</h1>
+<div align="center">
 
-<p align="center">
-Frontend Engineer • Vue.js • Quasar • High-Performance Web Apps
-</p>
+<img src="./hero.svg?v=1" width="100%" alt="Muhammad Asif — Full-Stack Software Engineer" />
 
-<p align="center">
-📍 Malaysia | 🎓 Master’s in IT (Research) | 💼 Open to Opportunities
-</p>
+<img src="./about-life.svg?v=1" width="100%" alt="What I build and what I do off the keyboard" />
 
----
+<img src="./stack.svg?v=1" width="100%" alt="Tech stack" />
 
-### 👨‍💻 About Me
+<img src="./id-dashboard.svg?v=1" width="100%" alt="ID badge and dashboard" />
 
-Frontend Engineer with 4+ years of experience building scalable SaaS dashboards and eCommerce platforms.
+</div>
 
-I specialize in Vue.js ecosystems and focus on performance, clean architecture, and user experience.
+## 👨‍💻 About me
 
-- Strong in Vue.js, Nuxt.js, Quasar, Tailwind CSS  
-- Experience with React & modern frontend workflows  
-- Built production-grade multi-store eCommerce systems  
-- Currently based in Malaysia and open to frontend roles  
+Full-stack software engineer with **5 years** of experience, currently building a complete **ERP system** for a fast-growing e-commerce fashion brand in Malaysia. I started as a frontend specialist (Vue.js, Nuxt, React) and now ship the whole stack — Vue 3 SPAs, Laravel APIs, PostgreSQL, CI/CD and AI-powered automation.
 
----
+- 🏢 **Software Engineer** at **The Panda Outfit HQ** (Kuala Lumpur) — building Panda ERP end to end
+- 🎓 **Master of IT (Research)** at **UniKL** — thesis: *Performance Optimization Techniques for Modern Single Page Applications*
 
-### 🚀 Experience Highlights
+- 🤖 Building **Jarvis**, a bot that runs the ERP's day-to-day automations
+- 🧠 Heavy user of **AI-assisted development** (Claude Code, agents) — I curate 150+ AI & dev repos at [claude-ai-repos](https://asif-reachout.github.io/claude-ai-repos/)
+- 💼 Freelance on Fiverr as [@webtechcod](https://www.fiverr.com/webtechcod)
 
-**Frontend Developer — Vlinq**
-- Built multi-store eCommerce platform and dashboard  
-- Developed reusable UI components with Vue + Quasar  
-- Improved performance and resolved critical issues  
-- Collaborated with backend and design teams  
+## 🚀 Experience
 
-**Frontend Developer — Horizam**
-- Built responsive web apps using React, Next.js, and Bootstrap  
-- Developed reusable and maintainable UI components  
-- Delivered features in a collaborative team environment  
+**Software Engineer — The Panda Outfit HQ** · Malaysia · *Jul 2026 – present*
 
----
+- Building **Panda ERP** from scratch: Vue 3 + PrimeVue SPA, Laravel API, PostgreSQL
+- Real-time **TikTok Shop API** integration — order sync, cancellations, shipping and stock for a high-volume shop
+- Modules for orders, pick lists, warehouse & production tracking, products/SKUs, HR & payroll, role-based access
+- Installable **PWAs** for factory and warehouse counters, web push notifications
+- CI/CD with **GitHub Actions** to a Linux VPS (Nginx, queues, staging + production), automated nightly backups to Google Drive
 
-### 🧩 Key Projects
+**Senior Frontend Developer — Vlinq** · Lahore, Pakistan · *Oct 2023 – Jun 2026*
 
-**🛒 Multi-Store eCommerce Platform**
-- Built scalable frontend for creating and managing online stores  
-- Implemented product management, themes, and dashboards  
-- Focused on performance and reusable architecture  
+- Built a multi-store e-commerce platform, merchant dashboard and themed storefronts (Vue, Nuxt, Quasar, Tailwind)
+- Reusable component libraries, performance work (lazy loading, image optimization), internal Chrome extension
 
-**🏬 Storefront System**
-- Dynamic storefronts with multiple themes  
-- Built using Vue.js, Nuxt.js, Tailwind CSS  
-- Optimized with lazy loading and image optimization  
+**Senior Frontend Developer — Horizam** · Lahore, Pakistan · *Nov 2021 – Oct 2023*
 
-**📇 Digital Profile Platform**
-- Business identity/profile system  
-- Clean UI with reusable components  
-- Fast and responsive across devices  
+- Responsive web apps with React, Next.js and Bootstrap; reusable, maintainable UI components
 
-**🌐 Agency Website**
-- Multi-page Nuxt.js website  
-- SEO-friendly structure and optimized performance  
+## 🧩 Projects
 
----
+| Project | What it is | Stack | Link |
+|---|---|---|---|
+| **Panda ERP** | Full ERP for a fashion e-commerce brand — TikTok Shop orders, stock, production, payroll, PWAs | Vue 3 · PrimeVue · Laravel · PostgreSQL | Private (company) |
+| **Jarvis** | Automation bot inside Panda ERP — auto-approvals, syncs and background jobs, always online | Laravel queues · Vue 3 | Private · in progress |
+| **Claude & AI Repos** | Curated, filterable directory of 150+ AI & dev repos; star counts update daily via GitHub Actions | HTML · JS · GitHub Actions | [Live](https://asif-reachout.github.io/claude-ai-repos/) |
+| **VenueBook Pro** | Hall & venue booking app with admin panel and duplicate-booking detection | Vue 3 · Pinia · Supabase · Tailwind | [Live](https://venuebook-pro.netlify.app) · [Code](https://github.com/asif-reachout/venuebook-pro) |
+| **TradeBot** | Personal trading automation bot | — | Private |
+| **Vlinq Sitemap Opener** | Chrome extension that loads, searches and opens 5,000+ store URLs | JavaScript · Chrome APIs | [Code](https://github.com/asif-reachout/vlinq-stores-extension) |
+| **Smart URL Shortener** | Glassmorphism URL shortener SPA | JavaScript · PHP · MySQL | [Code](https://github.com/asif-reachout/Smart-url-shortener) |
 
-### 🛠 Tech Stack
+## 🏙️ My contributions, as a city
 
-**Frontend**
-- Vue.js, Nuxt.js, React.js  
-- Quasar, Vuetify  
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution city" />
+</div>
 
-**Languages**
-- JavaScript (ES6+), TypeScript  
+## 📫 Connect
 
-**Styling**
-- Tailwind CSS, SCSS, Bootstrap  
+<div align="center">
+<img src="./connect.svg?v=1" width="100%" alt="Connect with Muhammad Asif" />
 
-**CMS / Platforms**
-- WordPress, Shopify  
+[GitHub](https://github.com/asif-reachout) ·
+[LinkedIn](https://linkedin.com/in/asif-reachout) ·
+[Portfolio](https://asifcode.netlify.app) ·
+[Email](mailto:asif.reachout@gmail.com) ·
+[Fiverr](https://www.fiverr.com/webtechcod) ·
+[AI Repos](https://asif-reachout.github.io/claude-ai-repos/)
 
-**State & Tools**
-- Pinia, Vuex  
-- Git, GitHub, REST APIs  
-- Figma, Vercel, Netlify  
-
----
-
-### 📫 Contact
-
-- 📧 asif.reachout@gmail.com  
-- 🔗 https://linkedin.com/in/asif-reachout  
-- 🌐 https://asifcode.netlify.app  
-
----
-
-### ⚡ Availability
-
-Open to:
-- Frontend roles (remote / Malaysia)
-- Freelance & contract work
-- SaaS / eCommerce projects
-
----
+<sub>keep coding, keep growing.</sub>
+</div>
